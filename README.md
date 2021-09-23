@@ -8,7 +8,7 @@
   </div>
 
 <h2>👨‍💻 Projeto</h2>
-<p>  Desenvolvido e modificado por mim no curso da Udemy.
+<p>  Desenvolvido por mim.
 
 <h2>📸 Screenshots da página no Pc</h2>
 <img align="center" width="1550" height="740" src="captura de tela/captura 1.png"><br>
